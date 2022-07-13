@@ -1,1 +1,0 @@
-Could not instantiate instance of class json.avro.processor.JsonToAvroProcessor due to: java.lang.NullPointerException
